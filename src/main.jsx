@@ -19,8 +19,7 @@ import {
 } from "lucide-react";
 
 import "./styles.css";
-import ssLogo from "./assets/ss-enterprises-logo.png";
-
+import ssLogo from "../ss-enterprises-logo.png";
 const offers = [
   {
     title: "Recharge & Earn",
